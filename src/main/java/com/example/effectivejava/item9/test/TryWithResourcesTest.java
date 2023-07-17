@@ -8,12 +8,5 @@ public class TryWithResourcesTest {
             foo1.doSomething();
             foo2.doSomething();
         }
-//
-//        Throwable throwable = new RuntimeException();
-//        Throwable[] suppressed = throwable.getSuppressed();
-//        for (Throwable throwable1 : suppressed) {
-//            System.out.println("throwable1 = " + throwable1);
-//        }
-
     }
 }
